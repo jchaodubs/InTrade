@@ -1,5 +1,6 @@
 # InTrade
 InTrade is a stock chatbot where you can ask stock inquiries, and plot them as well.
+![intrading](https://github.com/jchaodubs/InTrade/assets/87839757/23f4d26f-3b79-4787-99a4-0da504af47c6)
 
 ## Installation
 1.
