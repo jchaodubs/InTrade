@@ -6,7 +6,7 @@ InTrade is a stock chatbot where you can ask stock inquiries, and plot them as w
 ```bash
 pip install requirements.txt
 ```
-2. ***Remember to generate your own API key from open ai's api site https://openai.com/blog/openai-api
+2. ***Remember to generate your own API key from open ai's api site [OpenAI Site](https://openai.com/blog/openai-api)
   and paste it in the API_KEY text file***
 3.
 ```bash
