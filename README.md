@@ -21,9 +21,9 @@ Calculate EMAs and SMAs for specific stocks.
 Generate and display plots of stock prices.  
 
 ## Example commands
-What is the stock price of Apple?
-Can you plot the stock price of Microsoft?
-What is the RSI of Taiwan superconductors
+What is the stock price of Apple?  
+Can you plot the stock price of Microsoft?  
+What is the RSI of Taiwan superconductors  
 
 ## Contributing
 Contributions are welcome! This is a relatively young project so if you find any bugs or have ideas, please open an issue or submit a pull request.
